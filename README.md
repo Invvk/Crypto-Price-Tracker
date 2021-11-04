@@ -1,6 +1,6 @@
 # Crypto Price Tracker
 
-demo: 
+demo: https://invvk-crypto-tracker.netlify.app
 
 # Screenshot
 
