@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    min-width: 300px;
+}
+
+.first {
+    margin-right: 50px;
+    margin-left: 50px;
+}
